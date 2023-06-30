@@ -8,8 +8,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@novnc/novnc": "^1.4.0",
     "core-js": "^3.8.3",
-    "vue": "^2.6.14"
+    "moment": "^2.29.4",
+    "node-pty": "^0.10.1",
+    "nodejs-websocket": "^1.7.2",
+    "socket.io": "^4.6.1",
+    "vue": "^2.6.14",
+    "xterm": "^5.1.0",
+    "xterm-addon-attach": "^0.8.0",
+    "xterm-addon-fit": "^0.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
